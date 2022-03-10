@@ -1,4 +1,4 @@
-### Hi there, I'm Rajesh 👋
+### Hi there, I'm Rajesh 👋 [![Github](https://img.shields.io/github/followers/raj-rathod?label=Follow&style=social)](https://github.com/raj-rathod)
 
 ### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${raj-rathod}.${468134123})
 #### 🧰 Languages and Tools:
