@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### Hi there, I'm Rajesh 👋
 
 ### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${raj-rathod}.${468134123})
