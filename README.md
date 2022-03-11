@@ -30,17 +30,27 @@
 <!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
 </br>
-
+ 
+<p>
+    
 📊 **This Week I Spent My Time On:**
+    
+<img  height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="raj-rathod" />
+    
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
+    
+</p>
+    
+<p>
+    
 #### My Github Stats 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-<img height="180em" style="margin-left:40px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/>
-<img  height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="raj-rathod" />
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+     &nbsp; 
+<img  height="180em" style="margin-left:40px;" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 
