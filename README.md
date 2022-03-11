@@ -20,13 +20,27 @@
 </p>
 
 </div>
+    
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning Data Structures and Algorithms on [HackerRank](https://www.hackerrank.com/Raj_Rathod_1313);
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: rajeshrathore05011998@gmail.com;
+<!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 #### My Github Stats 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 <img height="180em" style="margin-left:40px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/>
 <img  height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="raj-rathod" />
-<!-- <img height="180em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=raj_rathore&layout=compact&theme=tokyonight&hide_border=true"/> -->
 </div>
 
 
