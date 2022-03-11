@@ -21,7 +21,7 @@
 
 </div>
     
-  <img align="right" src="https://github.com/raj-rathod/raj-rathod/blob/main/coding.gif" alt="special branch"/>  
+  <img align="right" height="200" width="200" src="https://github.com/raj-rathod/raj-rathod/blob/main/coding.gif" alt="special branch"/>  
     
 **Talking about Personal Stuffs:**
 
