@@ -21,6 +21,8 @@
 
 </div>
     
+  <img align="right" src="https://github.com/raj-rathod/raj-rathod/blob/main/coding.gif" alt="special branch"/>  
+    
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
