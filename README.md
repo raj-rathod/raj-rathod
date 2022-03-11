@@ -8,7 +8,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=raj-rathod.raj-rathod)
 
-I am a <b>Front-end Developer<b> and <b>Problem solver<b>. I love programming, reading books, speaking and traveling.
+##### I am a <b>Front-end Developer<b> and <b>Problem solver<b>. I love programming, reading books, speaking and traveling.
+##### I am ambitious learner, always looking to learn something new. I am very passionate about my work and love to solve complex problems and to deep dive into them for finding the best solution.
 
 #### 🧰 Languages and Tools:
 <div>
