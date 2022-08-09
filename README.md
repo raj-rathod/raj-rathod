@@ -26,7 +26,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Raj_Rathod_1313);
+- 🚀 I’m currently learning Data Structures and Algorithms on [Hackerrank](https://www.hackerrank.com/Raj_Rathod_1313);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rajeshrathore05011998@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1WX_jUXzJGbNOaSzVVYaACN5Sq-3vN5_A/view?usp=sharing).
