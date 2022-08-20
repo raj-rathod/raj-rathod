@@ -43,16 +43,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 August 2022 - To: 17 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Total Time: 24 hrs 24 mins
+Total Time: 25 hrs 9 mins
 
-TypeScript   14 hrs 31 mins  █████████████░░░░░░░░░░░░   52.52 %
-HTML         7 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
-CSS          2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-JavaScript   1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-YAML         1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-JSON         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+TypeScript   14 hrs 53 mins  ████████████▓░░░░░░░░░░░░   51.09 %
+HTML         7 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
+JavaScript   2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+CSS          2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+YAML         1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+JSON         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
