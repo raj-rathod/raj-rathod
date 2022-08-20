@@ -29,7 +29,7 @@
 - 🚀 I’m currently learning Data Structures and Algorithms on [Hackerrank](https://www.hackerrank.com/Raj_Rathod_1313);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rajeshrathore05011998@gmail.com;
-- 📝 [Resume](https://drive.google.com/file/d/1WX_jUXzJGbNOaSzVVYaACN5Sq-3vN5_A/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/17HzCJ04dLa2X4U8ShwTupqYMKsmCI2kG/view?usp=sharing).
 
 </br>
   </br>
