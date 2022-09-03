@@ -25,7 +25,7 @@
     
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool[Check it out](https://raj-rathod.github.io/DSA-visualisation-in-angular/);
+- 👨🏻‍💻 I’m currently working on something cool [Check it out](https://raj-rathod.github.io/DSA-visualisation-in-angular/);
 - 🚀 I’m currently learning Data Structures and Algorithms on [Hackerrank](https://www.hackerrank.com/Raj_Rathod_1313);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rajeshrathore05011998@gmail.com;
