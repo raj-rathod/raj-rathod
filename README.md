@@ -32,19 +32,19 @@
 - 📝 [Resume](https://drive.google.com/file/d/17HzCJ04dLa2X4U8ShwTupqYMKsmCI2kG/view?usp=sharing).
 
 </br>
-  </br>
+</br>
+</br>
+</br>
  
-<p>
+
     
 📊 **This Week I Spent My Time On:**
     
-<img  height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="raj-rathod" />
-    
+<img align="left" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="raj-rathod" />
+   
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 August 2022 - To: 01 September 2022
-
 Total Time: 34 hrs 29 mins
 
 TypeScript   16 hrs 32 mins  ████████████░░░░░░░░░░░░░   47.95 %
@@ -56,16 +56,12 @@ JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-    
-</p>
-    
-<p>
-    
+
+
 #### My Github Stats 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-<img  height="180em" style="margin-left:40px;" 
+<img  height="180em" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 
 
