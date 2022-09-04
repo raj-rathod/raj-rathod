@@ -1,15 +1,14 @@
 ### Hi there, I'm <a href="https://linktr.ee/rajesh_rathore" target="_blank">Rajesh Rathore</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img src="github-banner.png" alt="github banner">
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-rathore-0501/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://linktr.ee/rajesh_rathore)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Rajesh946055)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/raj_rathod1313/?hl=en)
 [![Github](https://img.shields.io/github/followers/raj-rathod?label=Follow&style=social)](https://github.com/raj-rathod)
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=raj-rathod.raj-rathod)
-
-##### I am a <b>Front-end Developer<b> and <b>Problem solver<b>. I love programming, reading books, speaking and traveling.
-##### I am ambitious learner, always looking to learn something new. I am very passionate about my work and love to solve complex problems and to deep dive into them for finding the best solution.
+![](https://visitor-badge.glitch.me/badge?page_id=raj-rathod.raj-rathod)
 
 #### 🧰 Languages and Tools
 
