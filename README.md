@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://linktr.ee/rajesh_rathore" target="_blank">Rajesh Rathore</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://linktr.ee/rajesh_rathore" target="_blank">	𝗥𝗮𝗷𝗲𝘀𝗵 𝗥𝗮𝘁𝗵𝗼𝗿𝗲</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img src="github-cover.png" alt="github banner">
 
