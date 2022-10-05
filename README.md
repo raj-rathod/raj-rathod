@@ -102,8 +102,11 @@ Vue.js       8 mins          ▒░░░░░░░░░░░░░░░░
 
 
 #### My Github Stats 
-<img align="right" height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/>
 <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/>
+</br>
 
+##
+𝗦𝗵𝗼𝘄 𝘀𝗼𝗺𝗲 ❤️ 𝗯𝘆 𝘀𝘁𝗮𝗿𝗿𝗶𝗻𝗴 𝘀𝗼𝗺𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀!
 
 
