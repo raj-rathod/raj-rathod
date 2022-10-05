@@ -10,6 +10,17 @@
 [![Github](https://img.shields.io/github/followers/raj-rathod?label=Follow&style=social)](https://github.com/raj-rathod)
 ![](https://visitor-badge.glitch.me/badge?page_id=raj-rathod.raj-rathod)
 
+I am a 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with almost 2+ years of experience, specializing in 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝟭𝟬+ and 𝗥𝗲𝘀𝘁 𝗔𝗣𝗜'𝘀 integration. I have extensive experience in 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦, 𝗔𝗻𝗴𝘂𝗹𝗮𝗿𝗝𝗦, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕. I am skilled in the use of these frameworks to develop web applications based on 𝗦𝗶𝗻𝗴𝗹𝗲 𝗣𝗮𝗴𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 (𝗦𝗣𝗔) and 𝗠𝗼𝗱𝗲𝗹-𝗩𝗶𝗲𝘄-𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿 (𝗠𝗩𝗖) architectures.
+
+I am proficient in problem-solving through 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀. I have a sound understanding of Operating systems, DBMS, Computer Networks, and 𝗢𝗯𝗷𝗲𝗰𝘁-𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 through TypeScript.
+
+I educate, refine and drive myself to be a better person
+- I am constantly learning because I never settle
+- I stay calm when faced with adversity
+- I focus on making high-quality decisions
+
+>I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech.
+
 #### 🧰 Languages and Tools
 
 <table border="0">
@@ -81,10 +92,9 @@
 </br>
 </br>
  
-
-    
-📊 **This Week I Spent My Time On:**
-    
+<details>
+  <summary> 📊 My Github Stats</summary>
+  </br>
 <img align="left" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="raj-rathod" />
    
 <!--START_SECTION:waka-->
@@ -103,10 +113,9 @@ Vue.js       8 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-#### My Github Stats 
 <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/>
-</br>
+</details>
 
 ##
 𝗦𝗵𝗼𝘄 𝘀𝗼𝗺𝗲 ❤️ 𝗯𝘆 𝘀𝘁𝗮𝗿𝗿𝗶𝗻𝗴 𝘀𝗼𝗺𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀!
