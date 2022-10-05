@@ -64,7 +64,7 @@
  </tr>
 </table>
 
-<img align="right" height="300" width="400" src="https://github.com/raj-rathod/raj-rathod/blob/main/coding.gif" alt="special branch"/>  
+<img align="right" height="300" width="300" src="developer.gif" alt="special branch"/>  
     
 **Talking about Personal Stuffs:**
 
