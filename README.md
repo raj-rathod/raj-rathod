@@ -117,7 +117,7 @@ Vue.js       8 mins          ▒░░░░░░░░░░░░░░░░
 <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/>
 </details>
 
-## Latest Tweets
+### Latest Tweets
  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Rajesh946055&layout=wide)](https://twitter.com/Rajesh946055)
 
 ##
