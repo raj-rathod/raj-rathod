@@ -92,10 +92,8 @@ I educate, refine and drive myself to be a better person
 </br>
 </br>
  
-<details>
-  <summary> 📊 My Github Stats</summary>
-  </br>
-<img align="left" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="raj-rathod" />
+### 📊 My Github Stats
+ <img align="left" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="raj-rathod" />
    
 <!--START_SECTION:waka-->
 
@@ -110,10 +108,11 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
+##
 <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-<img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/>
-</details>
+<img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/> 
+
+##
 
 ### Latest Tweets
  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Rajesh946055&layout=wide)](https://twitter.com/Rajesh946055)
