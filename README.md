@@ -75,7 +75,7 @@ I educate, refine and drive myself to be a better person
  </tr>
 </table>
 
-<img align="right" height="300" width="300" src="developer.gif" alt="special branch"/>  
+<img align="right" height="320" width="320" src="developer.gif" alt="special branch"/>  
     
 **Talking about Personal Stuffs:**
 
@@ -85,12 +85,13 @@ I educate, refine and drive myself to be a better person
 - 📫 How to reach me: rajeshrathore05011998@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/17HzCJ04dLa2X4U8ShwTupqYMKsmCI2kG/view?usp=sharing).
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+**Check My Work:**
+- [Data Structure and Algorithm Visualization(DSA)](https://raj-rathod.github.io/DSA-visualisation-in-angular/)
+- [Data Structure and Algorithm Methods (NPM Package)](https://www.npmjs.com/package/@raj-rathod/dsa-methods)
+- [Calendar Without Api](https://raj-rathod.github.io/Calendar_without_Third_Party_api/)
+- [Tic Tac Toe Game](https://raj-rathod.github.io/tic-toc-game/)
+
+##
  
 ### 📊 My Github Stats
  <img align="left" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="raj-rathod" />
