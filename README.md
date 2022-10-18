@@ -75,7 +75,7 @@ I educate, refine and drive myself to be a better person
  </tr>
 </table>
 
-<img align="right" height="320" width="320" src="developer.gif" alt="special branch"/>  
+<img align="right" height="340" width="340" src="developer.gif" alt="special branch"/>  
     
 **Talking about Personal Stuffs:**
 
