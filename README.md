@@ -112,8 +112,8 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ##
-<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-<img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/> 
+<img align="left" height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="170em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"/> 
 
 ##
 
