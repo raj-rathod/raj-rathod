@@ -119,7 +119,7 @@ INI          1 min           ░░░░░░░░░░░░░░░░░
 
 ### Latest Tweets
  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Rajesh946055&layout=wide)](https://twitter.com/Rajesh946055)
- <img height="220rem" src="https://raw.githubusercontent.com/raj-rathod/DSA-visualisation-in-angular/main/src/assets/ds-image/dsa_visualization_qr.png?raw=true">
+
 
 ##
 𝗦𝗵𝗼𝘄 𝘀𝗼𝗺𝗲 ❤️ 𝗯𝘆 𝘀𝘁𝗮𝗿𝗿𝗶𝗻𝗴 𝘀𝗼𝗺𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀!
