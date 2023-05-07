@@ -101,10 +101,10 @@ I educate, refine and drive myself to be a better person
 ```text
 Total Time: 9 hrs 36 mins
 
-TypeScript   6 hrs 33 mins   █████████████████░░░░░░░░   68.17 %
-HTML         2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.07 %
+TypeScript   6 hrs 10 mins   ████████████████░░░░░░░░░   64.30 %
+HTML         2 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   29.86 %
 Bash         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
