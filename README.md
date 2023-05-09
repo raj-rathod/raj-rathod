@@ -114,10 +114,10 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <img align="left" height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" alt="Rajesh Rathore" />
 <img height="170em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"alt="Rajesh Rathore" /> 
 
-##
+<!-- ##
 
 ### Latest Tweets
- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Rajesh946055&layout=wide)](https://twitter.com/Rajesh946055)
+ [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Rajesh946055&layout=wide)](https://twitter.com/Rajesh946055) -->
 
 
 ##
