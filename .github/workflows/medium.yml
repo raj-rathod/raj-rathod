@@ -18,4 +18,4 @@ jobs:
     - name: Update README with latest Medium posts
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: node update-readme.js
+      run: node medium-blog-list.js
