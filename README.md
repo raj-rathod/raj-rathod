@@ -119,6 +119,13 @@ CSS          20 mins         ▒░░░░░░░░░░░░░░░░
 ### Latest Tweets
  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Rajesh946055&layout=wide)](https://twitter.com/Rajesh946055) -->
 
+ ## 
+
+ ### Latest Blog Post
+ 
+ <!-- MEDIUM POSTS START -->
+ <!-- MEDIUM POSTS END -->
+
 
 ##
 𝗦𝗵𝗼𝘄 𝘀𝗼𝗺𝗲 ❤️ 𝗯𝘆 𝘀𝘁𝗮𝗿𝗿𝗶𝗻𝗴 𝘀𝗼𝗺𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀!

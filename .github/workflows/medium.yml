@@ -1,0 +1,19 @@
+name: Update Medium posts on README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '14.x'
+    - run: npm install
+    - name: Update README with latest Medium posts
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: node update-readme.js
