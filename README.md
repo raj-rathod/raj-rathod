@@ -123,8 +123,6 @@ CSS          20 mins         ▒░░░░░░░░░░░░░░░░
 
  ### Latest Blog Post
  
- <!-- MEDIUM POSTS START -->
- <!-- MEDIUM POSTS END -->
 
 
 ##
