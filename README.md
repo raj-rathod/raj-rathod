@@ -122,7 +122,7 @@ CSS          20 mins         ▒░░░░░░░░░░░░░░░░
  ## 
 
  ### Latest Blog Post
- [![Rajesh Rathore](https://github-readme-medium.vercel.app/?username=raj-rathod&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@rajeshrathore05)
+ [![Rajesh Rathore](https://github-readme-medium.vercel.app/?username=rajeshrathore05&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@rajeshrathore05)
 
 ##
 𝗦𝗵𝗼𝘄 𝘀𝗼𝗺𝗲 ❤️ 𝗯𝘆 𝘀𝘁𝗮𝗿𝗿𝗶𝗻𝗴 𝘀𝗼𝗺𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀!
