@@ -123,6 +123,8 @@ JSON         12 mins         ▒░░░░░░░░░░░░░░░░
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [A Complete Guide to MongoDB Queries with Examples](https://dev.to/rajrathod/a-complete-guide-to-mongodb-queries-with-examples-ik4)
+- [Building a Mini DBMS Project Using GitHub Repositories: A Step-by-Step Guide for College Students](https://dev.to/rajrathod/building-a-mini-dbms-project-using-github-repositories-a-step-by-step-guide-for-college-students-1159)
 <!-- BLOG-POST-LIST:END -->
 
 ##
