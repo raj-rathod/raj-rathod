@@ -123,9 +123,9 @@ JSON         16 mins         ▓░░░░░░░░░░░░░░░░
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Understanding TypeScript Types: Primitives, Objects, and Type Manipulations](https://dev.to/rajrathod/understanding-typescript-types-primitives-objects-and-type-manipulations-bjj)
 - [A Comprehensive Guide to TypeScript: Introduction, Installation, and Running Code](https://dev.to/rajrathod/a-comprehensive-guide-to-typescript-introduction-installation-and-running-code-1olo)
 - [5 Awesome GitHub Repositories for Mini DBMS Projects](https://dev.to/rajrathod/5-awesome-github-repositories-for-mini-dbms-projects-3hdg)
-- [A Complete Guide to MongoDB Queries with Examples](https://dev.to/rajrathod/a-complete-guide-to-mongodb-queries-with-examples-ik4)
 <!-- BLOG-POST-LIST:END -->
 
 ##
