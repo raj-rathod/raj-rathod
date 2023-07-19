@@ -123,9 +123,9 @@ JSON         16 mins         ▓░░░░░░░░░░░░░░░░
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to TypeScript: Introduction, Installation, and Running Code](https://dev.to/rajrathod/a-comprehensive-guide-to-typescript-introduction-installation-and-running-code-1olo)
 - [5 Awesome GitHub Repositories for Mini DBMS Projects](https://dev.to/rajrathod/5-awesome-github-repositories-for-mini-dbms-projects-3hdg)
 - [A Complete Guide to MongoDB Queries with Examples](https://dev.to/rajrathod/a-complete-guide-to-mongodb-queries-with-examples-ik4)
-- [Building a Mini DBMS Project Using GitHub Repositories: A Step-by-Step Guide for College Students](https://dev.to/rajrathod/building-a-mini-dbms-project-using-github-repositories-a-step-by-step-guide-for-college-students-1159)
 <!-- BLOG-POST-LIST:END -->
 
 ##
