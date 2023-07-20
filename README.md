@@ -123,9 +123,9 @@ Bash         17 mins         ▓░░░░░░░░░░░░░░░░
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the Power of TypeScript Decorators: Extending and Modifying Code with Ease](https://dev.to/rajrathod/exploring-the-power-of-typescript-decorators-extending-and-modifying-code-with-ease-424l)
 - [Exploring the Power of TypeScript Generics: Constraints, Utility Types, Literal Types, and Recursive Structures](https://dev.to/rajrathod/exploring-the-power-of-typescript-generics-constraints-utility-types-literal-types-and-recursive-structures-78g)
 - [Understanding TypeScript Types: Primitives, Objects, and Type Manipulations](https://dev.to/rajrathod/understanding-typescript-types-primitives-objects-and-type-manipulations-bjj)
-- [A Comprehensive Guide to TypeScript: Introduction, Installation, and Running Code](https://dev.to/rajrathod/a-comprehensive-guide-to-typescript-introduction-installation-and-running-code-1olo)
 <!-- BLOG-POST-LIST:END -->
 
 ##
