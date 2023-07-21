@@ -123,9 +123,9 @@ Bash         5 mins          ▒░░░░░░░░░░░░░░░░
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Object-Oriented Programming with TypeScript: Encapsulation, Abstraction, Inheritance, and Polymorphism Explained](https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p)
 - [Exploring the Power of TypeScript Decorators: Extending and Modifying Code with Ease](https://dev.to/rajrathod/exploring-the-power-of-typescript-decorators-extending-and-modifying-code-with-ease-424l)
 - [Exploring the Power of TypeScript Generics: Constraints, Utility Types, Literal Types, and Recursive Structures](https://dev.to/rajrathod/exploring-the-power-of-typescript-generics-constraints-utility-types-literal-types-and-recursive-structures-78g)
-- [Understanding TypeScript Types: Primitives, Objects, and Type Manipulations](https://dev.to/rajrathod/understanding-typescript-types-primitives-objects-and-type-manipulations-bjj)
 <!-- BLOG-POST-LIST:END -->
 
 ##
