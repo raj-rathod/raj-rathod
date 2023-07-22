@@ -123,9 +123,9 @@ JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Mastering TypeScript Modules: Organize, Reuse, and Collaborate with Ease](https://dev.to/rajrathod/mastering-typescript-modules-organize-reuse-and-collaborate-with-ease-5334)
 - [Mastering Object-Oriented Programming with TypeScript: Encapsulation, Abstraction, Inheritance, and Polymorphism Explained](https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p)
 - [Exploring the Power of TypeScript Decorators: Extending and Modifying Code with Ease](https://dev.to/rajrathod/exploring-the-power-of-typescript-decorators-extending-and-modifying-code-with-ease-424l)
-- [Exploring the Power of TypeScript Generics: Constraints, Utility Types, Literal Types, and Recursive Structures](https://dev.to/rajrathod/exploring-the-power-of-typescript-generics-constraints-utility-types-literal-types-and-recursive-structures-78g)
 <!-- BLOG-POST-LIST:END -->
 
 ##
