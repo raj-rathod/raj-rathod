@@ -122,9 +122,9 @@ Bash         3 mins          ▒░░░░░░░░░░░░░░░░
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [CAP Theorem](https://dev.to/rajrathod/cap-theorem-2681)
 - [System Design Introduction](https://dev.to/rajrathod/system-design-introduction-9o8)
 - [Mastering TypeScript Modules: Organize, Reuse, and Collaborate with Ease](https://dev.to/rajrathod/mastering-typescript-modules-organize-reuse-and-collaborate-with-ease-5334)
-- [Mastering Object-Oriented Programming with TypeScript: Encapsulation, Abstraction, Inheritance, and Polymorphism Explained](https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p)
 <!-- BLOG-POST-LIST:END -->
 
 ##
