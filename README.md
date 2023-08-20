@@ -123,9 +123,9 @@ Bash         3 mins          ▒░░░░░░░░░░░░░░░░
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Background Jobs](https://dev.to/rajrathod/background-jobs-473j)
 - [CAP Theorem : System Design](https://dev.to/rajrathod/cap-theorem-2681)
 - [System Design Introduction](https://dev.to/rajrathod/system-design-introduction-9o8)
-- [Mastering TypeScript Modules: Organize, Reuse, and Collaborate with Ease](https://dev.to/rajrathod/mastering-typescript-modules-organize-reuse-and-collaborate-with-ease-5334)
 <!-- BLOG-POST-LIST:END -->
 
 ##
