@@ -122,9 +122,9 @@ JSON         9 mins          ▓░░░░░░░░░░░░░░░░
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [What is DNS and CDN ?](https://dev.to/rajrathod/what-is-dns-and-cdn--3o38)
 - [Background Jobs](https://dev.to/rajrathod/background-jobs-473j)
 - [CAP Theorem : System Design](https://dev.to/rajrathod/cap-theorem-2681)
-- [System Design Introduction](https://dev.to/rajrathod/system-design-introduction-9o8)
 <!-- BLOG-POST-LIST:END -->
 
 ##
