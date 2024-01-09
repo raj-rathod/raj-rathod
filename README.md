@@ -124,9 +124,9 @@ CSS          0 secs          ▒░░░░░░░░░░░░░░░░
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Observables and Observers in RxJS](https://dev.to/rajrathod/observables-and-observers-in-rxjs-1jk5)
 - [Introduction to Reactive Programming](https://dev.to/rajrathod/introduction-to-reactive-programming-3bcf)
 - [Data Communication : System design](https://dev.to/rajrathod/data-communication-system-design-3hgf)
-- [Load Balancers and Reverse Proxy: System design](https://dev.to/rajrathod/load-balancers-and-reverse-proxy-system-design-k51)
 <!-- BLOG-POST-LIST:END -->
 
 ##
