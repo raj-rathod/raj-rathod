@@ -102,7 +102,7 @@ I educate, refine and drive myself to be a better person
 ```txt
 Total Time: 23 hrs 21 mins
 
-TypeScript   15 hrs 57 mins  █████████████████░░░░░░░░   68.29 %
+TypeScript   15 hrs 57 mins  █████████████████░░░░░░░░   68.30 %
 HTML         5 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
 CSS          59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 Bash         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
