@@ -100,9 +100,9 @@ I educate, refine and drive myself to be a better person
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 6 mins
+Total Time: 51 mins
 
-TypeScript   1 hr 6 mins     █████████████████████████   100.00 %
+TypeScript   51 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
