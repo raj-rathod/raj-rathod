@@ -100,13 +100,13 @@ I educate, refine and drive myself to be a better person
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 28 mins
+Total Time: 6 hrs 48 mins
 
-HTML         2 hrs 33 mins   ██████████░░░░░░░░░░░░░░░   39.54 %
-TypeScript   2 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   34.21 %
-Pug          45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-JSON         35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Bash         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+HTML         2 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   37.57 %
+TypeScript   2 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   32.50 %
+Pug          45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+JSON         35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+JavaScript   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
