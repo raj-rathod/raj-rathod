@@ -100,10 +100,10 @@ I educate, refine and drive myself to be a better person
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 34 mins
+Total Time: 39 mins
 
-HTML         1 hr 26 mins    ███████████████████████░░   91.42 %
-TypeScript   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+HTML         31 mins         ████████████████████░░░░░   79.65 %
+TypeScript   7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.35 %
 ```
 
 <!--END_SECTION:waka-->
