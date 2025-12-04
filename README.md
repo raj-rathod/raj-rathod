@@ -98,19 +98,7 @@ I educate, refine and drive myself to be a better person
 ### 📊 My Github Stats
  <img align="left" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="Rajesh Rathore" />
    
-<!--START_SECTION:waka-->
 
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-##
-<img align="left" height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raj-rathod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" alt="Rajesh Rathore" />
-<img height="170em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raj-rathod&layout=compact&theme=tokyonight&hide_border=true"alt="Rajesh Rathore" /> 
 
 <!-- ##
 
