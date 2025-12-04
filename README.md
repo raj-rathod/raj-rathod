@@ -96,25 +96,8 @@ I educate, refine and drive myself to be a better person
 ##
  
 ### 📊 My Github Stats
- <img align="left" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="Rajesh Rathore" />
-   
+ <img align="left" height="280em"  src="https://github-readme-streak-stats.herokuapp.com/?user=raj-rathod&theme=tokyonight&hide_border=true" alt="Rajesh Rathore" />
 
 
-<!-- ##
-
-### Latest Tweets
- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Rajesh946055&layout=wide)](https://twitter.com/Rajesh946055) -->
-
- ## 
-
-### Latest Blog Post
-<!-- BLOG-POST-LIST:START -->
-- [Observables and Observers in RxJS](https://dev.to/rajrathod/observables-and-observers-in-rxjs-1jk5)
-- [Introduction to Reactive Programming](https://dev.to/rajrathod/introduction-to-reactive-programming-3bcf)
-- [Data Communication : System design](https://dev.to/rajrathod/data-communication-system-design-3hgf)
-<!-- BLOG-POST-LIST:END -->
-
-##
-𝗦𝗵𝗼𝘄 𝘀𝗼𝗺𝗲 ❤️ 𝗯𝘆 𝘀𝘁𝗮𝗿𝗿𝗶𝗻𝗴 𝘀𝗼𝗺𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀!
 
 
