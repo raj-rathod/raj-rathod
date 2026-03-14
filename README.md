@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/github/followers/raj-rathod?label=Follow&style=social)](https://github.com/raj-rathod)
 ![](https://komarev.com/ghpvc/?username=raj-rathod&label=PROFILE+VIEWS)
 
-I am a **Full Stack** 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with  4+ years of experience, specializing in 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝟭𝟬+ and 𝗥𝗲𝘀𝘁 𝗔𝗣𝗜'𝘀 implementation and integration. I have extensive experience in 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, **Java** and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦, 𝗔𝗻𝗴𝘂𝗹𝗮𝗿𝗝𝗦, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, **LoopBack 4** and **Spring boot**. I am skilled in the use of these frameworks to develop web applications based on 𝗦𝗶𝗻𝗴𝗹𝗲 𝗣𝗮𝗴𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 (𝗦𝗣𝗔) and 𝗠𝗼𝗱𝗲𝗹-𝗩𝗶𝗲𝘄-𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿 (𝗠𝗩𝗖) architectures.
+I am a **Full Stack** 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with  5+ years of experience, specializing in 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝟭𝟬+ and 𝗥𝗲𝘀𝘁 𝗔𝗣𝗜'𝘀 implementation and integration. I have extensive experience in 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, **Java** and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦, 𝗔𝗻𝗴𝘂𝗹𝗮𝗿𝗝𝗦, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, **LoopBack 4** and **Spring boot**. I am skilled in the use of these frameworks to develop web applications based on 𝗦𝗶𝗻𝗴𝗹𝗲 𝗣𝗮𝗴𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 (𝗦𝗣𝗔) and 𝗠𝗼𝗱𝗲𝗹-𝗩𝗶𝗲𝘄-𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿 (𝗠𝗩𝗖) architectures.
 
 I am proficient in problem-solving through 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀. I have a sound understanding of Operating systems, DBMS, Computer Networks, and 𝗢𝗯𝗷𝗲𝗰𝘁-𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 through TypeScript and Java.
 
