@@ -10,14 +10,16 @@
 [![Github](https://img.shields.io/github/followers/raj-rathod?label=Follow&style=social)](https://github.com/raj-rathod)
 ![](https://komarev.com/ghpvc/?username=raj-rathod&label=PROFILE+VIEWS)
 
-I am a **Full Stack** 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with  5+ years of experience, specializing in 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 𝟭𝟬+ and 𝗥𝗲𝘀𝘁 𝗔𝗣𝗜'𝘀 implementation and integration. I have extensive experience in 𝗛𝗧𝗠𝗟𝟱, 𝗖𝗦𝗦𝟯, 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, **Java** and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦, 𝗔𝗻𝗴𝘂𝗹𝗮𝗿𝗝𝗦, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, **LoopBack 4** and **Spring boot**. I am skilled in the use of these frameworks to develop web applications based on 𝗦𝗶𝗻𝗴𝗹𝗲 𝗣𝗮𝗴𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 (𝗦𝗣𝗔) and 𝗠𝗼𝗱𝗲𝗹-𝗩𝗶𝗲𝘄-𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗿 (𝗠𝗩𝗖) architectures.
+I am a **Full Stack Engineer** with **5+ years of experience** specializing in building highly scalable microservices, resilient distributed systems, and optimized enterprise web/SaaS applications. 
 
-I am proficient in problem-solving through 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀. I have a sound understanding of Operating systems, DBMS, Computer Networks, and 𝗢𝗯𝗷𝗲𝗰𝘁-𝗢𝗿𝗶𝗲𝗻𝘁𝗲𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 through TypeScript and Java.
+### 🛠️ What I Do
+- **Architecting at Scale:** Designing fault-tolerant microservices using **Java Spring Boot** and **Node.js**, backed by **PostgreSQL** and **MongoDB**.
+- **Frontend Performance:** Crafting high-performance UIs and modular architectures using **Angular** and **Angular Universal (SSR)**.
+- **System Resiliency & Observability:** Implementing robust telemetry and fault-handling using **Prometheus, Grafana, Zipkin, and Resilience4j**.
+- **Cloud & DevOps:** Containerizing and orchestring environments using **Docker** and **Kubernetes** with seamless **CI/CD** automation.
+---
 
-I educate, refine and drive myself to be a better person
-- I am constantly learning because I never settle
-- I stay calm when faced with adversity
-- I focus on making high-quality decisions
+⚡ *Fun fact: I love breaking down complex business logic into clean, decoupled, and reusable code.*
 
 >I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging tech.
 
